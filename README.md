@@ -8,9 +8,6 @@ Topic: Book Management System (Bookstore) Goal: Transitioning from a local JSON 
 Tech Stack:
 
 Backend: Node.js, Express.js
-
 Database: MongoDB Atlas (Cloud)
-
 ODM: Mongoose
-
 Frontend: HTML5, CSS3, Vanilla JavaScript
