@@ -1,5 +1,3 @@
 # Web Technologies Backend
 
-## Aizat Kydyrkan
- SE-2432
- Assignment 3
+## Aizat Kydyrkan SE-2432 Assignment3
