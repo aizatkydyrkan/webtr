@@ -33,3 +33,6 @@ The server handles the following RESTful routes:
 | DELETE | /books/:id    | Remove a book from the database | 200 OK        |
 
 <img width="636" height="409" alt="Снимок экрана 2026-01-18 в 16 32 31" src="https://github.com/user-attachments/assets/c2e7034d-635d-4e82-96de-9586d85ab373" />
+
+<img width="708" height="806" alt="Снимок экрана 2026-01-18 в 16 35 29" src="https://github.com/user-attachments/assets/e468a03b-7787-42c9-9d81-2c3e74fed430" />
+
