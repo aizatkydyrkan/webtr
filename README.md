@@ -31,3 +31,5 @@ The server handles the following RESTful routes:
 | GET    | /books/:id    | Retrieve a specific book by ID  | 200 OK        |
 | PUT    | /books/:id    | Update book details by ID       | 200 OK        |
 | DELETE | /books/:id    | Remove a book from the database | 200 OK        |
+
+<img width="636" height="409" alt="Снимок экрана 2026-01-18 в 16 32 31" src="https://github.com/user-attachments/assets/c2e7034d-635d-4e82-96de-9586d85ab373" />
