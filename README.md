@@ -24,9 +24,10 @@ I used **Mongoose** to define a structured schema for the "Book" object. This en
 ### 3. API Documentation
 The server handles the following RESTful routes:
 
-Method,Endpoint,Description,Status Code
-POST,/books,Create a new book entry,201 Created
-GET,/books,Retrieve all books from Atlas,200 OK
-GET,/books/:id,Retrieve a specific book by ID,200 OK
-PUT,/books/:id,Update book details by ID,200 OK
-DELETE,/books/:id,Remove a book from the database,200 OK
+| Method | Endpoint      | Description                     | Status Code   |
+|--------|---------------|---------------------------------|---------------|
+| POST   | /books        | Create a new book entry         | 201 Created   |
+| GET    | /books        | Retrieve all books from Atlas   | 200 OK        |
+| GET    | /books/:id    | Retrieve a specific book by ID  | 200 OK        |
+| PUT    | /books/:id    | Update book details by ID       | 200 OK        |
+| DELETE | /books/:id    | Remove a book from the database | 200 OK        |
